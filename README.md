@@ -1,1 +1,32 @@
-# gdg-7-days-of-code
+# GDG 7 DAYS of CODE
+
+## Event Overview
+### Duration:
+
+18th to 24th November: Daily Coding Challenges
+25th November: Mini Hackathon with 2 Problem Statements
+Objective:
+To solve coding problems daily and participate in a final hackathon, enhancing problem-solving skills and GitHub proficiency.
+
+## How to Participate
+Fork the Repository
+Commit your code and push it to your fork in a folder with a appropriate name.
+Maintain your fork by submitting all of the problems released over the thirty days.
+Maintain all your submissions in the forked repository for tracking.
+
+## Leaderboard and Points System
+### Daily Challenge Points:
+
+Submitting a correct solution before the deadline grants full points.
+Late submissions may earn partial points (optional).
+The mini-hackathon on 25th November will have its own point weightage for two problems.
+
+### Points Distribuation
+Full Solution: 10 points
+Partial Solution: 5 points
+Hackathon Problems: 50 points each
+
+## Top Performers:
+
+The leaderboard will highlight participant's cumulative scores.
+Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes (optional).
