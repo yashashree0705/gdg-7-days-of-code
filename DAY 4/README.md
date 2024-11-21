@@ -14,7 +14,7 @@ No external libraries are to be used.
 
 ## **Input Format**
 
-1. Each of the following \( T \) lines contains three space-separated integers \( X, Y, Z \):
+1. Each of the following lines contains three space-separated integers \( X, Y, Z \):
    - \( X \): Number of schools.
    - \( Y \): Number of students in each school.
    - \( Z \): Number of students who passed the exams.
