@@ -53,26 +53,26 @@ NO
 ### **Test Case 1**  
 - Total students = \( 2 \* 10 = 20 \)  
 - Students passed = \( 12 \)  
-- Percentage passed = \( \frac{12}{20} \* 100 = 60\% \)  
+- Percentage passed = \(12/20 \* 100 = 60\% \)  
 - Since \( 60\% > 50\% \), output is `"YES"`.
 
 ### **Test Case 2**  
 - Total students = \( 1 \* 5 = 5 \)  
 - Students passed = \( 3 \)  
-- Percentage passed = \( \frac{3}{5} \* 100 = 60\% \)  
+- Percentage passed = \( 3/5 \* 100 = 60\% \)  
 - Since \( 60\% > 50\% \), output is `"YES"`.
 
 ### **Test Case 3**  
 - Total students = \( 3 \* 6 = 18 \)  
 - Students passed = \( 9 \)  
-- Percentage passed = \( \frac{9}{18} \* 100 = 50\% \)  
+- Percentage passed = \( 9/18 \* 100 = 50\% \)  
 - Since \( 50\% \) is **not strictly greater than 50%**, output is `"NO"`.
 
 ---
 
 ## **Edge Cases**
 1. \( Z = 0 \): All students failed. Output should be `"NO"`.
-2. \( Z = X \times Y \): All students passed. Output should be `"YES"`.
-3. \( Z = 0.5 \times X \times Y \): Output should be `"NO"` as it is **not strictly greater** than 50%.
+2. \( Z = X \* Y \): All students passed. Output should be `"YES"`.
+3. \( Z = 0.5 \* X \times Y \): Output should be `"NO"` as it is **not strictly greater** than 50%.
 
 **Happy Coding!!** 🚀
