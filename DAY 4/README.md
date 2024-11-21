@@ -45,26 +45,27 @@ YES
 NO
 ```
 
+
 ---
 
 ## **Explanation**
 
 ### **Test Case 1**  
-- Total students = \( 2 \times 10 = 20 \)  
+- Total students = \( 2 \* 10 = 20 \)  
 - Students passed = \( 12 \)  
-- Percentage passed = \( \frac{12}{20} \times 100 = 60\% \)  
+- Percentage passed = \( \frac{12}{20} \* 100 = 60\% \)  
 - Since \( 60\% > 50\% \), output is `"YES"`.
 
 ### **Test Case 2**  
-- Total students = \( 1 \times 5 = 5 \)  
+- Total students = \( 1 \* 5 = 5 \)  
 - Students passed = \( 3 \)  
-- Percentage passed = \( \frac{3}{5} \times 100 = 60\% \)  
+- Percentage passed = \( \frac{3}{5} \* 100 = 60\% \)  
 - Since \( 60\% > 50\% \), output is `"YES"`.
 
 ### **Test Case 3**  
-- Total students = \( 3 \times 6 = 18 \)  
+- Total students = \( 3 \* 6 = 18 \)  
 - Students passed = \( 9 \)  
-- Percentage passed = \( \frac{9}{18} \times 100 = 50\% \)  
+- Percentage passed = \( \frac{9}{18} \* 100 = 50\% \)  
 - Since \( 50\% \) is **not strictly greater than 50%**, output is `"NO"`.
 
 ---
