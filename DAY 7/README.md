@@ -40,7 +40,6 @@
 ```
 ### **Explanation**  
 
- For the first example:  
    - The second row contains \( 0 \), so its entire row and column are set to \( 0 \).
 ---
 #### **Test Case 2**
@@ -63,7 +62,6 @@
 ```
 ### **Explanation** 
 
-2. For the second example:  
    - The first element is \( 0 \), so the entire first row and column are set to \( 0 \).  
    - The third row contains a \( 0 \), so its entire row and column are also set to \( 0 \).  
 
