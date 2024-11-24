@@ -5,11 +5,13 @@
 ---
 
 ### **Problem Statement**  
+
 You are given a 2d matrix \( M \) of size \( N \). Your task is to modify the matrix in such a way that if an element in the matrix is \( 0 \), its entire row and column should be set to \( 0 \). 
 (As today is the last day we will level up a bit...👍)
 ---
 
 ### **Input Format**  
+
 - The first line contains two integers \( N \) (number of rows) and \( M \) (number of columns).  
 - The next \( N \) lines each contain \( M \) integers, representing the elements of the matrix.  
 
@@ -37,6 +39,7 @@ You are given a 2d matrix \( M \) of size \( N \). Your task is to modify the ma
 7 0 9
 ```
 ### **Explanation**  
+
  For the first example:  
    - The second row contains \( 0 \), so its entire row and column are set to \( 0 \).
 ---
@@ -58,7 +61,8 @@ You are given a 2d matrix \( M \) of size \( N \). Your task is to modify the ma
 0 0 0 0
 0 14 0 16
 ```
-### **Explanation**  
+### **Explanation** 
+
 2. For the second example:  
    - The first element is \( 0 \), so the entire first row and column are set to \( 0 \).  
    - The third row contains a \( 0 \), so its entire row and column are also set to \( 0 \).  
@@ -66,6 +70,7 @@ You are given a 2d matrix \( M \) of size \( N \). Your task is to modify the ma
 ---
 
 ### **Instructions**  
+
 1. Traverse the matrix to identify all rows and columns that should be set to \( 0 \).  
 2. Modify the matrix in-place based on the identified rows and columns.  
 3. Print the resulting matrix.
