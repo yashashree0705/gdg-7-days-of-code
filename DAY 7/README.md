@@ -6,8 +6,8 @@
 
 ### **Problem Statement**  
 
-You are given a 2d matrix \( M \) of size \( N \). Your task is to modify the matrix in such a way that if an element in the matrix is \( 0 \), its entire row and column should be set to \( 0 \). 
-(As today is the last day we will level up a bit...👍)
+- You are given a 2d matrix \( M \) of size \( N \). Your task is to modify the matrix in such a way that if an element in the matrix is \( 0 \), its entire row and column should be set to \( 0 \). 
+- (As today is the last day we will level up a bit...👍)
 ---
 
 ### **Input Format**  
